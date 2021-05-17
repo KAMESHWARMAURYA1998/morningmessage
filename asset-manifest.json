@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/morningmessage/static/css/main.78b447e1.chunk.css",
+    "main.js": "/morningmessage/static/js/main.e2948779.chunk.js",
+    "main.js.map": "/morningmessage/static/js/main.e2948779.chunk.js.map",
+    "runtime-main.js": "/morningmessage/static/js/runtime-main.51fab135.js",
+    "runtime-main.js.map": "/morningmessage/static/js/runtime-main.51fab135.js.map",
+    "static/js/2.0596f2a0.chunk.js": "/morningmessage/static/js/2.0596f2a0.chunk.js",
+    "static/js/2.0596f2a0.chunk.js.map": "/morningmessage/static/js/2.0596f2a0.chunk.js.map",
+    "static/js/3.ea8b9372.chunk.js": "/morningmessage/static/js/3.ea8b9372.chunk.js",
+    "static/js/3.ea8b9372.chunk.js.map": "/morningmessage/static/js/3.ea8b9372.chunk.js.map",
+    "index.html": "/morningmessage/index.html",
+    "static/css/main.78b447e1.chunk.css.map": "/morningmessage/static/css/main.78b447e1.chunk.css.map",
+    "static/js/2.0596f2a0.chunk.js.LICENSE.txt": "/morningmessage/static/js/2.0596f2a0.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/morningmessage/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.51fab135.js",
+    "static/js/2.0596f2a0.chunk.js",
+    "static/css/main.78b447e1.chunk.css",
+    "static/js/main.e2948779.chunk.js"
+  ]
+}
